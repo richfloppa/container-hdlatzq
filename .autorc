@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "richfloppa",
+  "repo": "container-hdlatzq",
+  "name": "richfloppa",
+  "email": "efstrn@gmail.com",
+}
